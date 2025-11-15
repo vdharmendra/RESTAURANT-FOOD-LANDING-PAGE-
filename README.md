@@ -5,7 +5,7 @@
 
 ---
 ## View Project ##
-<a href="https://vdharmendra.github.io//">View Project on browser</a>
+<a href="https://vdharmendra.github.io/RESTAURANT-FOOD-LANDING-PAGE-">View Project on browser</a>
 
 ---
 
